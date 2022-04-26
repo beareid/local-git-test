@@ -1,4 +1,4 @@
-# local_git_test
+# local-git-test
 Testing
 Testing
 Testing
